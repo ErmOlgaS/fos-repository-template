@@ -216,7 +216,6 @@ git commit -m "feat(lab3): implemented inheritance hierarchy Book -> Ebook/Print
 Полиморфизм: Массив BankAccount[] с вызовом расчета процентов.
 Интерфейс: TransactionLoggable (метод getHistory()).
 2. Автомобильный транспорт (Car)
-
 Иерархия: Car  Truck, SportCar.
 Абстракция: Метод fuelConsumptionPer100km().
 Полиморфизм: Массив Car[] для вывода расхода топлива разных типов авто.
