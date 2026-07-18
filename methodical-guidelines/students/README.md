@@ -19,7 +19,7 @@
 ## Лабораторные работы
 
 1. [Лабораторная работа 1. Настройка окружения. Первый класс](methodical-guidelines/students/lab1.md)
-2. [Лабораторная работа 2. Конструкторы, перегрузка, static](methodical-guidelines/students/lab1.md)
+2. [Лабораторная работа 2. Конструкторы, перегрузка, static](methodical-guidelines/students/lab2.md)
 3. [Лабораторная работа 3.](methodical-guidelines/students/lab2.md)
 4. [Лабораторная работа 4.](methodical-guidelines/students/lab2.md)
 5. [Лабораторная работа 5.](methodical-guidelines/students/lab2.md)
